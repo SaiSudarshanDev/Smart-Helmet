@@ -1,0 +1,33 @@
+# Arduino
+.build/
+build/
+*.hex
+*.elf
+*.bin
+*.map
+*.eep
+*.lst
+*.obj
+*.o
+*.a
+*.sym
+*.lock
+*.core
+
+# Arduino IDE
+.vscode/
+*.code-workspace
+.idea/
+
+# OS Generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Other
+*.zip
+!ei-drwhitefusion-project-1-arduino*.zip

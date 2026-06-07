@@ -1,6 +1,7 @@
 # 🚴‍♂️ Smart Helmet Collision Warning System
 
-![Smart Helmet Architecture Circuit Diagram](assets/poster.png)
+<img width="717" height="467" alt="Screenshot 2026-06-07 121613" src="https://github.com/user-attachments/assets/15aab2ce-78af-4ae2-8860-cb0ac16fdb33" />
+
 
 An advanced, distributed smart helmet system designed to enhance cyclist and rider safety. The project utilizes edge AI and sensor fusion to detect approaching vehicles and alert the rider through haptic feedback before a potential collision occurs.
 
